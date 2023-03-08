@@ -1,0 +1,42 @@
+.heading{
+    font-size:20px;
+    color:blue;
+    ;
+}/your CSS code here/
+
+
+.data{
+    font-family: cursive;
+}
+.prof{
+    font-size: 30px;
+}
+.contactinfo{
+    font-size: 25px
+}
+.subheading{
+    font-size: 20px;;
+}.heading{
+    font-size: 35px;
+    font-weight: bolder;
+} 
+/*.prof{
+    font-size: 45px;
+    font-weight: 900;
+    color:pink;
+}*/
+.subheading{
+    font-size: 20px;
+    font-weight: bolder;
+}.intro{
+    background-color: #2F5A78;
+    color: white;
+} 
+.subheading{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #2F5A78;
+}
+.icon{
+    color: #2F5A78;
+}
